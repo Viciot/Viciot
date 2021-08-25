@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Viciot
+- 👋 Hi, I’m Victor
 - 👀 I’m interested in back and front-end development
 - 🌱 I’m currently improving my knowledge in React
 - 💞️ I’m looking to collaborate on courses where to learn as much as possible
